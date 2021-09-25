@@ -9,4 +9,4 @@ Free discord bot hosting website - https://uptimerobot.com/ (For more info join 
 
 Must have basic knowledge about discord.js and the working of discord bot.
 
-RUn the code using node . / node index.js
+Run the code using node . / node index.js
